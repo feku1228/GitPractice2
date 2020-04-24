@@ -7,7 +7,7 @@ public class AllGood {
         System.out.println("All good");
 
 
-        // I hope every thing is GOOD.
+        // I hope every thing is
 
 
     }
